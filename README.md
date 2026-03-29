@@ -20,24 +20,17 @@ The project contains several scripts that examine system identity, inspect packa
 
 ## Repository Structure
 
-```
 open-source-audit-linux-kernel
 │
 ├── README.md
 ├── LICENSE
 │
-├── scripts
-│   ├── script1_system_identity.sh
-│   ├── script2_package_inspector.sh
-│   ├── script3_disk_audit.sh
-│   ├── script4_log_analyzer.sh
-│   └── script5_manifesto_generator.sh
-│
-└── report
-    └── OpenSourceAudit_AryaAbhyankar.pdf
-```
+├── script1_system_identity.sh
+├── script2_package_inspector.sh
+├── script3_disk_audit.sh
+├── script4_log_analyzer.sh
+└── script5_manifesto_generator.sh
 
----
 
 ## Scripts Description
 
